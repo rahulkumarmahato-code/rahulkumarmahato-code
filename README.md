@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rahul Kumar Mahato
 
-<!--
-**rahulkumarmahato-code/rahulkumarmahato-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **MEAN Stack Developer** with over 2 years of experience in building scalable full-stack applications. I love solving real-world problems using clean code and modern web technologies.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🔭 Currently working at **Infosys** as a MEAN Stack Developer
+- 🛠️ Skilled in Angular, Node.js, MongoDB, MySQL, Spring Boot
+- ☁️ Experienced with AWS, GitHub Actions, CI/CD, and DevOps workflows
+- 📊 Built dynamic dashboards with Tableau and transformed data pipelines using Snowflake
+- 💡 Always learning new things about System Design, Microservices, and DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/rahulkumarmahato)
+- 💻 [Portfolio (Coming Soon!)]()
+- 📧 Email: rahul.mahato0312@gmail.com
+
+---
+
+Thanks for stopping by! Feel free to explore my repos 🚀
