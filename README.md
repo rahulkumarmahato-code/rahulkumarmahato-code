@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rahul Kumar Mahato
 
-Welcome to my GitHub! I'm a passionate **MEAN Stack Developer** with over 2 years of experience in building scalable full-stack applications. I love solving real-world problems using clean code and modern web technologies.
+Welcome to my GitHub! I'm a passionate **MEAN Stack Developer** with over 3 years of experience in building scalable full-stack applications. I love solving real-world problems using clean code and modern web technologies.
 
 ## 🧠 About Me
 - 🔭 Currently working at **Infosys** as a MEAN Stack Developer
